@@ -1,10 +1,10 @@
-To compile :\n
-git clone https://github.com/Titanium260/https-prober;\n
-cd https-prober;\n
-gcc -o target main.c -lcurl -O4;\n
+To compile :
+git clone https://github.com/Titanium260/https-prober;
+cd https-prober;
+gcc -o target main.c -lcurl -O4;
 
-To use :\n
-sudo ./target;\n
+To use :
+sudo ./target;
 
-Program was tested and works with HTTP/HTTPS\n
-I don't know what else do you want\n
+Program was tested and works with HTTP/HTTPS
+I don't know what else do you want
